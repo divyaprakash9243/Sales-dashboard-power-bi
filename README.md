@@ -41,10 +41,10 @@ https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/Sales%20r
 ![ROOT CAUSE ANALYSIS](https://github.com/user-attachments/assets/019b7c28-85ec-44f0-8e60-07f526b24ef3)
 ![# OF ORDERS BY CATEGORY](https://github.com/user-attachments/assets/b105018d-731d-48b7-9be2-aced424aef37)
 # Author / Contact / Credits
-**Author**: Divya Prakash  
-**LinkedIn**: linkedin.com/in/divya-prakash-21b64826a
-**GitHub**: https://github.com/divyaprakash9243?tab=repositories
-**Email**: divyaprakash6364@gmail.com
+Author: Divya Prakash  
+LinkedIn: linkedin.com/in/divya-prakash-21b64826a
+GitHub: https://github.com/divyaprakash9243?tab=repositories
+Email: divyaprakash6364@gmail.com
 #  📄 License
 This project is licensed under the MIT License – feel free to use and modify it.
 
