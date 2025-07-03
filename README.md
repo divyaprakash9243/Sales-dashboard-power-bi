@@ -14,5 +14,22 @@ This project presents an interactive Sales Report Dashboard created in Power BI,
 - **DAX (Data Analysis Expressions)** – Custom measures and KPIs
 - **Excel/CSV Dataset** – Sales data source
 #  Project Structure / Files Included
+Data set
+https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/Sales%20Report%20Project%20(1).xlsx <br/>
+Sales-dashboard-power-bi.pbix 
+https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/Sales%20report%20project.pbix
+Preview.png 
+HOME PAGE 
+https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/PRODUCT%20ANALYSIS.PNG <br/>
+SALES ANALYSIS https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/SALES%20ANALYSIS.PNG <br/>
+PRODUCT ANALYSIS 
+https://github.com/divyaprakash9243/Sales-dashboard-power-bi/blob/main/PRODUCT%20ANALYSIS.PNG <br/>
+ROOT CAUSE ANALYSIS
+
+
+README.md – Project documentation
+
+
+
 
 
